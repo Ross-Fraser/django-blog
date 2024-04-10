@@ -32,7 +32,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     "127.0.0.1",
-    "https://*.herokuapp.com",
+    "django-blog-202403-01d740361298.herokuapp.com",
     ]
 
 
